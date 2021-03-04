@@ -6,7 +6,7 @@ Define constants and auxiliary methods
 backgroundColor = "gray5"
 defaultFont = "Helvetica"
 
-APIKey = "624d4871b5fd8859c8ba05ce88a58fe8" # temporary, must hide it
+APIKey = "API-KEY-HERE" # temporary, must hide it
 
 # weather
 cityName = "Thessaloniki"
